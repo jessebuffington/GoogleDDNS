@@ -1,6 +1,6 @@
 #!/bin/bash
 
-### Google Domains provides an API to update a DNS "Syntheitc record". This script
+### Google Domains provides an API to update a DNS "Synthetic record". This script
 ### updates a record with the script-runner's public IP, as resolved using a DNS
 ### lookup.
 ###
