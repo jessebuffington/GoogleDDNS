@@ -22,6 +22,7 @@ if [ "$1" == "-h" ] || [ "$1" == "--help" ];
       **Please review the Google help page to get credentials for DDNS**
               https://support.google.com/domains/answer/6147083
 
+
 "
     exit
 fi
